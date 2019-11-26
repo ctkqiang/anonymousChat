@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "632341020295",
+    "firebase_url": "https://hacker-32694.firebaseio.com",
+    "project_id": "hacker-32694",
+    "storage_bucket": "hacker-32694.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632341020295:android:858dcb428d91bbca6a0222",
+        "android_client_info": {
+          "package_name": "com.johnmelodyme.anonymouschat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632341020295-vnj0mukf7ptugd14iup2401e252f5kn1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.johnmelodyme.anonymouschat",
+            "certificate_hash": "d8fbb0da17ff5ecb20b1a97058089b83e80bc51b"
+          }
+        },
+        {
+          "client_id": "632341020295-2fuaa5r9d7845q94vj87k53cvvp3oh5s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgqbrU7y0H-v7Up0QkZBI0LBkDMxe1HIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632341020295-2fuaa5r9d7845q94vj87k53cvvp3oh5s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
